@@ -1,0 +1,181 @@
+[ {
+  "name":"Tiana",
+  "photo":"https://goo.gl/images/sizcEf",
+  "scores":[
+      5,
+      1,
+      3,
+      3,
+      5,
+      5,
+      1,
+      1,
+      5,
+      4,
+      4,
+      3
+    ]
+},
+{
+  "name":"Ariel",
+  "photo":"https://goo.gl/images/2rDdmZ",
+  "scores":[
+      5,
+      5,
+      3,
+      1,
+      5,
+      2,
+      5,
+      3,
+      3,
+      5,
+      5,
+      5
+    ]
+},
+{
+  "name":"Cinderella",
+  "photo":"https://goo.gl/images/PHN7Zu",
+  "scores":[
+      4,
+      5,
+      2,
+      4,
+      4,
+      5,
+      5,
+      3,
+      1,
+      5,
+      4,
+      4
+    ]
+},
+{
+  "name":"Snow White",
+  "photo":"",
+  "scores":[
+      5,
+      1,
+      2,
+      4,
+      5,
+      5,
+      1,
+      1,
+      5,
+      5,
+      4,
+      3
+    ]
+},
+{
+  "name":"Belle",
+  "photo":"https://goo.gl/images/JrXrqu",
+  "scores":[
+      5,
+      1,
+      1,
+      5,
+      5,
+      5,
+      1,
+      1,
+      5,
+      5,
+      4,
+      3
+    ]
+},
+{
+  "name":"Pocahontas",
+  "photo":"https://goo.gl/images/Zx2Chf",
+  "scores":[
+      4,
+      1,
+      1,
+      4,
+      5,
+      5,
+      1,
+      1,
+      5,
+      4,
+      4,
+      3
+    ]
+},
+{
+  "name":"Mulan",
+  "photo":"https://goo.gl/images/bn7KxN",
+  "scores":[
+      5,
+      1,
+      1,
+      4,
+      5,
+      5,
+      1,
+      1,
+      4,
+      3,
+      4,
+      3
+    ]
+},
+{
+  "name":"Princess Jasmine",
+  "photo":"https://goo.gl/images/ZMKevi",
+  "scores":[
+      5,
+      1,
+      1,
+      5,
+      5,
+      5,
+      1,
+      1,
+      5,
+      4,
+      4,
+      3
+    ]
+},
+{
+  "name":"Rapunzel",
+  "photo":"https://goo.gl/images/8UmitK",
+  "scores":[
+      3,
+      5,
+      1,
+      5,
+      1,
+      2,
+      4,
+      5,
+      5,
+      4,
+      4,
+      5
+    ]
+},
+{
+  "name":"Merida",
+  "photo":"https://goo.gl/images/ML0Jo3",
+  "scores":[
+      2,
+      5,
+      1,
+      5,
+      1,
+      4,
+      5,
+      4,
+      5,
+      5,
+      4,
+      5
+    ]
+}
+]
